@@ -1,7 +1,7 @@
-## Which issues does this PR solve (issue number)
+## Which issues does this PR resolve (issue number)
 Enter the issue number after the '#' symbol. This will automatically link the PR to the issue.
 
-#<issue number>
+PR resolves #<issue number>
 
 ## Description of change
 
