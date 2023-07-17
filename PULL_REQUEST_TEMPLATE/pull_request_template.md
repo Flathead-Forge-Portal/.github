@@ -16,5 +16,5 @@ include a summary of the changes. List any dependancies that are requierd for th
 - [ ] Test (adding missing tests or correcting existing ones)
 - [ ] Other (please describe)
 
-## Screenshots of change (frontent)
+## Screenshots of change (frontend)
 If applicable, add screenshots to help explain your problem.
